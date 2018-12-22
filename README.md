@@ -1,4 +1,5 @@
 # An End to End Dota2 Machine Learning Project 
+<img src="images/DOTA-2-1.jpg"></img>
 ## Jupyter notebook
 [Jupyter Nbviewer Version](https://nbviewer.jupyter.org/github/billwarker/opendota-analysis/blob/master/A%20Statistical%20Look%20Back%20on%20my%20Dota%202%20Career.ipynb)
 ## Defense of the Ancients 2 (Dota2)

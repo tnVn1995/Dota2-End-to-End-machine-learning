@@ -1,7 +1,7 @@
 # An End to End Dota2 Machine Learning Project 
 <img src="images/DOTA-2-1.jpg"></img>
 ## Jupyter notebook
-[Jupyter Nbviewer Version](https://nbviewer.jupyter.org/github/billwarker/opendota-analysis/blob/master/A%20Statistical%20Look%20Back%20on%20my%20Dota%202%20Career.ipynb)
+[Jupyter Nbviewer Version](https://github.com/tung2921/Dota2-End-to-End-machine-learning/blob/master/DoTa2_Project.ipynb)
 ## Defense of the Ancients 2 (Dota2)
 ### Introduction
   Dota2 is developed from a custom map whose name is Dota. The map has been a part of Warcraft3, which was brought about by Blizzard. Dota was at the time ["likely the most popular and most-discussed free, non-supported game mod in the world"](https://en.wikipedia.org/wiki/Defense_of_the_Ancients).In 2011, Valve Corporation hired Ice Frog (he created Dota) to develop an independent game based on the custom map Dota of Wardcraft3. The was when Dota2 appeared. In 2012, Valve launched a beta public version of Dota2. I was among the first wave of people to receive the keys to the beta. During this time, there were still many reservations from Dota players around the world about the potential success of Dota2. Hence, the players didn't immediately switch to Dota2 after the beta launch. Nonetheless, as time goes by, Dota2 proves to be the derserved heir to the world wide popular status of Dota. In 2006, Dota2 reached its record high peak when there were "nearly 1.29 million gamers playing at the same time." (https://www.statista.com/statistics/807457/dota-2-number-players-steam/). 
